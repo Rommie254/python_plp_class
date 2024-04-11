@@ -1,0 +1,6 @@
+Hello World! 
+My name is Sharon. 
+My contact number is +254 700123456. 
+I am pursuing a software development course at PLP academy. 
+My passion lies in hardware and software programming. 
+Languages: Python, Dart, HTML, CSS etc.
